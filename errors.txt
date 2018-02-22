@@ -10,3 +10,8 @@ Chapter Links and Images:
   HTML entities
     Quotes
       e into &ldquo;web typography,&rdquo; you ==> e into &ldquo;web typography&rdquo;, you
+
+Chapter Floats:
+  Hiding Overlfow
+    The test does not fit. ' a phasellus. A augue
+    venenatis adipiscing' taken away.
