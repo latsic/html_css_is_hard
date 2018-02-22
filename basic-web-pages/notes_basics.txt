@@ -1,0 +1,17 @@
+'block-level elements' aka 'flow content':
+Eaxamples:
+  - ul,
+  - ol,
+  - p,
+  - h1
+
+Characteristics:
+- Always drawn on a new inline
+
+
+'inline elements' or 'phrasing content':
+Esamples:
+  - em (normally rendered as italics)
+  - strong (normally rendered bold)
+
+- can have effects anywhere within a inline

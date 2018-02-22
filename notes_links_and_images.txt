@@ -1,0 +1,13 @@
+Links:
+  <a> ==> Anchors, with an attribute one can define the type of the anchor (zB 'href').
+  Atrributes:
+    - href ==> absolute, root relative or relative
+    - target ==> _blank
+
+Images:
+  <img/>
+
+  Attributes:
+    - src
+    - width
+    - height (setting only width, will scale proportionally)
