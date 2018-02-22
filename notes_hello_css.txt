@@ -1,0 +1,27 @@
+
+CSS rule:
+  - starts with a selector (what html element(s) it refers to)
+  - contains a decleration block.
+
+
+CSS properties:
+  - color ==> text color
+  - font-family
+  - list-style-type
+  - list-style-image
+  - text-decoration
+  - text-align
+
+HTML Elements:
+  - Link ==>  similar to a, but in head element.
+    Attribute Link: 'stylesheet', may others
+
+
+
+The CSS hierarchy for every web page looks like this:
+
+    The browser’s default stylesheet
+    User-defined stylesheets
+    External stylesheets (that’s us)
+    Page-specific styles (that’s also us)
+    Inline styles (that could be us, but it never should be)
