@@ -1,0 +1,10 @@
+
+- For controlling the flow horizontally
+
+alignment of blocks:
+floats: left | right
+margin: 0 auto;
+
+
+- go back to vertical flow:
+clear: left;
