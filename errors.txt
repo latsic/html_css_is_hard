@@ -6,3 +6,7 @@ Chapter Links and Images:
 
   Text Alternatives
     Link to Official specification: 404
+
+  HTML entities
+    Quotes
+      e into &ldquo;web typography,&rdquo; you ==> e into &ldquo;web typography&rdquo;, you

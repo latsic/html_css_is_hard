@@ -11,3 +11,9 @@ Images:
     - src
     - width
     - height (setting only width, will scale proportionally)
+
+HTML Entities:
+  An “HTML entity” is a special character that can’t be represented as plain text in an HTML document. This typically either means it’s a reserved character in HTML or you don’t have a key on your keyboard for it
+  - <
+  - >
+  - &
