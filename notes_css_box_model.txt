@@ -1,0 +1,30 @@
+
+css box model:
+  - each html element is a box
+  - defines the layout of a page
+
+  Core concepts:
+    ==> micro view of css layouts, defines individual behaviour of boxes!
+    - padding
+    - borders
+    - margins
+    - block boxes
+    - inline boxes
+
+    Some Rules:
+      - Block Boxes ==> natural flow / static flow
+      - Blockboxes width relative to parent conainer
+      - Blockboxes height ==> from content
+      - Inline Boxes ==> np affect on vertical spacing
+      - Inline Boxes ==> for styling iside of a block
+      - Inline Boxes ==> width ==> from content
+
+Each Box (both inline and block)
+  - content
+  - padding – The space between the box’s content and its border.
+  - border – The line between the box’s padding and margin.
+  - margin – The space between the box and surrounding boxes.
+
+
+  div ==> block element
+  span ==> inline elements
