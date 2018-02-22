@@ -1,0 +1,50 @@
+
+Descendant selectors:
+  h1 em {
+    ...
+  }
+
+  Child selectors:
+  .mylist > li {
+    ...
+  }
+
+  Pseudo classes:
+
+    Anchor selectors depending on state:
+    a:link {
+      color: blue;
+      text-decoration: none;
+    }
+    a:visited {
+      color: purple;
+    }
+    a:hover {
+      color: aqua;
+      text-decoration: underline;
+    }
+    a:visited:hover {
+      color:orange;
+    }
+    a:active {
+      color: red;
+    }
+    a:visited:active {
+      color:red;
+    }
+
+    class selector depending on state of an anchor
+    .button:visited {
+
+    }
+
+
+    Those two are relative to their parent container!!!
+    p:last-of-type {
+      margin-bottom: 50px;
+    }
+
+    p:first-of-type {
+      color: #7E8184;
+      font-style: italic;
+    }
