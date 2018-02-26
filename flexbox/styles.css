@@ -48,8 +48,9 @@
 .social,
 .logo,
 .subscribe {
-  /*border: 1px solid #5995DA;*/
+  border: 1px solid #5995DA;
 }
+
 
 .social,
 .subscribe {
@@ -72,22 +73,22 @@
 }
 
 .photo-grid-item {
-  border: 1px solid #f00;
+  /*border: 1px solid #f00;*/
   width: 300px;
   height: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
+/*
 .first-item {
-  order: 1;
-}
-
-.last-item {
   order: -1;
 }
 
+.last-item {
+  order: 1;
+}
+*/
 .footer {
   display: flex;
   justify-content: space-between;
@@ -113,6 +114,27 @@
 
 .signup {
   margin-left: auto;
+}
+
+.first-item {
+  display: block;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border: 5px solid #00f;
+}
+
+.photo-grid-item-image {
+  float: left;
+}
+
+.photo-grid-item-image > img {
+  border: 5px solid #f00;
+  width: 200px;
+  margin-right: 15px;
+}
+.photo-grid-item-text > p{
+  border: 5px solid #0f0;
+  margin-right: 3px;
 }
 
 /*

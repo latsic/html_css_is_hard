@@ -6,7 +6,7 @@ Two new items:
   ==> define how they are positioned
   ==> display: flex;
 
-- felx items:
+- flex items:
   ==> Every html element taht's a direct child of flex container
 
 
