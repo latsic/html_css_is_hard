@@ -1,0 +1,10 @@
+semantic html elements:
+  <header>
+  <nav>
+  <article>
+  <aside>
+  <figure>
+  <footer>
+
+  <time>
+  <address>
