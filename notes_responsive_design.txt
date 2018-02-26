@@ -1,0 +1,10 @@
+
+Media queeries:
+  ==> begin with an at-ruke: @media
+
+  [at-rule][type][AND][media feature]{
+    [ordinary css]
+  }
+  ==> @media only screen and (max-width: 400px) {
+        ....
+      }
