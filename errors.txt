@@ -15,3 +15,6 @@ Chapter Floats:
   Hiding Overlfow
     The test does not fit. ' a phasellus. A augue
     venenatis adipiscing' taken away.
+
+Advanced Positioning:
+  zip containing images has no parent images folder.

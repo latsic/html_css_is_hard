@@ -1,0 +1,10 @@
+
+static poisitioning:
+==> css box model, float, flexbox.
+
+other types of positioning:
+==> relative, absolute, fixed., relatively absolute.
+
+position property:
+- default: static
+- falls nicht static ==> called 'positioned element'
